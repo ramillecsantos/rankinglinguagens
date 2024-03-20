@@ -1,2 +1,2 @@
-# rankinglinguagens
-Essa é uma atividade passada pelo meu professor de Coding, para que fizessemos uma tabela comparando 5 linguagens (Javascript, Java, PHP, Python e C#) e mais uma outra de nosso interesse. ​:)
+## Tabela Comparativa de Linguagens de Programação
+Este projeto acadêmico visa criar uma tabela comparativa entre cinco linguagens de programação amplamente utilizadas (Javascript, Java, PHP, Python e C#) e mais uma escolhida de meu interesse. O objetivo é fornecer uma visão geral das características e usos dessas linguagens, de acordo com minhas experiências.
